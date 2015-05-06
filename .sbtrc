@@ -1,0 +1,1 @@
+alias compileAll=; server/compile; client/fastOptJS
